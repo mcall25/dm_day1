@@ -4,3 +4,6 @@ var mike = 10;
 
 
 var nohema = 15;
+
+
+var num = 50;

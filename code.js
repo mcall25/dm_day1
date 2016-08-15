@@ -7,3 +7,6 @@ var nohema = 15;
 
 
 var num = 50;
+
+
+var mi = 100;
